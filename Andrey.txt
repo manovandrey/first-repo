@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 My name is Andrey
 Update with Tortoise
+=======
+My name is Andrey
+>>>>>>> c810a0339f238b9a2068fd712122af9bcc10ab2a
