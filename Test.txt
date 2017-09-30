@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Updateing with Bash
+Updating with Bash
 Andrey
 Update with Tortoise
 =======
